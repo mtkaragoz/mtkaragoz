@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtkaragoz
 -  I’m interested in coding with prompt engineering
--  I’m currently learning python
+- 
 
 
 <!---
