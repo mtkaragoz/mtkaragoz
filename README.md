@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @mtkaragoz
--  I’m interested in coding with prompt engineering
-- 
+Languages & Frameworks: Python, Flask, Swift (Xcode), SQL (SQLite)
+Artificial Intelligence: GPT API usage, Prompt Engineering, AI-based automation
+Databases: SQLite, JSON
+Other: Web scraping, data analysis, basic UI, API integration
 
 
 <!---
