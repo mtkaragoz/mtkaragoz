@@ -26,6 +26,10 @@ I am a growth-oriented **Full Stack Developer** dedicated to building modern, sc
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-Data-orange?style=for-the-badge)
 
+**Deployment & Infrastructure**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433E?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
