@@ -1,4 +1,4 @@
-<Full Stack Developer>
+Full Stack Developer
 
 I am a growth-oriented **Full Stack Developer** dedicated to building modern, scalable, and user-centric web applications. My approach combines technical precision with a passion for staying ahead of industry trends.
 
