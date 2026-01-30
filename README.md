@@ -26,17 +26,6 @@ I am a growth-oriented **Full Stack Developer** dedicated to building modern, sc
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-Data-orange?style=for-the-badge)
 
----
-
-### 📊 GitHub Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mtkaragoz&show_icons=true&theme=dark" alt="mtkaragoz github stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtkaragoz&layout=compact&theme=dark" alt="mtkaragoz top languages" height="150" />
-</p>
 
 ---
 
-### 📫 Connect with me
-- 🌐 [Website (tazehafiza.com)](https://tazehafiza.com)
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)
